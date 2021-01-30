@@ -3,5 +3,8 @@
     margin: 0;
     box-sizing: border-box;
     font-family: Roboto;
-    background: #c4c4c4;
+  }
+
+  .app {
+    background-color: #c4c4c4;
   }
